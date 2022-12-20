@@ -1,0 +1,72 @@
+h1,h2,h3{
+
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: 2px 2px 2px grey
+}
+h2{
+    font-size:28px;
+    color: #0078e4;
+    border-bottom: 3px solid #00279c;
+    border-bottom-width: 50%;
+    
+}
+p{
+    font-family: 'Dancing Script', cursive;
+}
+li{
+    font-family: 'Dancing Script', cursive;
+}
+.page{
+    border: 3px groove green;
+    border-radius: 25px;
+    background-color: #cdddee;
+    width: 780px;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.infophoto{
+    height: 500px;
+}
+.info{
+    float: left;
+    
+    
+}
+.photo{
+    
+    float: right;
+}
+.section{
+    margin-bottom: 70px;
+    float: center;
+    text-align: justify;
+}
+img{
+    margin:20px;
+    height: 150px;
+    width: 150px;
+    border: 3px solid #00279c;
+    border-radius: 8px;
+    box-shadow: 16px 22px 21px 7px rgba(65,88,173,0.75);
+-webkit-box-shadow: 16px 22px 21px 7px rgba(65,88,173,0.75);
+-moz-box-shadow: 16px 22px 21px 7px rgba(65,88,173,0.75);
+
+}
+
+.metier{
+    display: inline;
+    border:2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 6px rgba(0,0,0,0.41);
+-webkit-box-shadow: 2px 2px 20px 6px rgba(0,0,0,0.41);
+-moz-box-shadow: 2px 2px 20px 6px rgba(0,0,0,0.41);
+
+    
+}
+.milieu{
+    text-align: center;
+}
+#intro{
+    text-align: justify;
+}
